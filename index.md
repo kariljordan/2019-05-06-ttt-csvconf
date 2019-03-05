@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 carpentry: "dc"    # what kind of Carpentry (must be either "dc" or "swc")
-venue: "Eliot Center (csv,conf,v4)"        # brief name of host site without address (e.g., "Euphoric State University")
+venue: "The Carpentries Instructor Training at csv,conf,v4 (Eliot Center)"        # brief name of host site without address (e.g., "Euphoric State University")
 address: "Room A108, 1226 SW Salmon St, Portland, OR 97205, USA"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 latlng: "45.518590,-122.686020"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use http://www.latlong.net/)
 humandate: "May 6-7, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
